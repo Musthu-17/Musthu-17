@@ -1,6 +1,6 @@
 👋 Hello, World! I'm Muhammed Musthafa
 
-💻 Aspiring Programmer | 🐍 Python Aficionado | 🌐 JavaScript | 🔐 Pentesting
+💻 Aspiring Programmer | 🐍 Python | 🌐 JavaScript | 🔐 Pentesting
 
 🚀 About Me
 - 👨‍💻 Amateur programmer passionate about learning and creating.
