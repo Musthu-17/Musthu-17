@@ -1,19 +1,19 @@
 👋 Hello, World! I'm Muhammed Musthafa
 
-💻 Aspiring Programmer | 🐍 Python | 🌐 JavaScript | 🔐 Pentesting
+🐍 Python | 🌐 JavaScript | 🔐 Pentesting
 
 🚀 About Me
-- 👨‍💻 Amateur programmer passionate about learning and creating.
-- 🔧 JavaScript is my go-to for web development, and I'm always honing my skills.
-- 🔒 On a quest to understand and enhance cybersecurity through pentesting.
+- 👨‍💻 Beginner programmer passionate about learning and creating.
+- 🔧 I love doing javascript
+- 🔒 I like the idea of providing protection through the means of cybersecurity
 
 🌱 Current Learning Goals
 - 🐍 Mastering Python for automation and scripting.
 - 🛡️ Advancing my skills in ethical hacking and pentesting.
 
 🚀 My Projects
-- 📦 Check out my repositories for Python and JavaScript projects.
-- 🛠️ Feel free to contribute, ask questions, or provide feedback.
+- 📦 I have only started out so my projects are pretty basic 
+- 🛠️ Feel free to contribute and provide feedback.
 
 👁️‍🗨️ Fun Fact
 - 🌌 When I'm not coding, you'll find me reading or at the gym.
